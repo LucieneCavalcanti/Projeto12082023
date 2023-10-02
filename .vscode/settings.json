@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": [
+        "projeto14082023manha/src"
+    ],
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "projeto14082023manha\\lib\\mssql-jdbc-12.4.0.jre11.jar"
+    ]
+}
